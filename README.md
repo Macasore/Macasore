@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on python projects
 - 🌱 I’m currently learning Django framework and aws 
 - 👯 I’m looking to collaborate on web development and cloud computing 
 - 💬 Ask me about technology
