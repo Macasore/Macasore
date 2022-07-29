@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Django framework and aws 
-- 👯 I’m looking to collaborate on web development and cloud computing 
+- 🌱 I’m currently learning Django framework and REST api
+- 👯 I’m looking to collaborate on web development and software engineering
 - 💬 Ask me about technology
 - 📫 How to reach me: macasorekingdavid@gmail.com
 - 😄 Pronouns: he/him
