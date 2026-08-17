@@ -43,8 +43,7 @@ ops         github actions · gitlab ci · jenkins · sentry · nvidia
 
 ### stats
 
-<img src="https://streak-stats.demolab.com/?user=Macasore&theme=dark&hide_border=true" height="150"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Macasore&theme=dark&hide_border=true&layout=compact" height="150">
-
+![](https://streak-stats.demolab.com/?user=Macasore&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Macasore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### reach me
 
 [linkedin](https://linkedin.com/in/mac-asoredavid) · [x](https://x.com/macathefirst) · [mail](mailto:macasorekingdavid@gmail.com)
