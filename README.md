@@ -11,24 +11,30 @@
 mac@reedapt:~$ whoami
 
   Mac Asore David — backend engineer, co-founder @ Reedapt
+  MSc Artificial Intelligence candidate
 
 mac@reedapt:~$ cat about.txt
 
-  I build the Software infrastructure behind Reedapt, an AI dubbing and live
+  I build the software infrastructure behind Reedapt, an AI dubbing and live
   interpretation platform for African languages. GPU pipelines on AWS ECS,
   diarization, voice cloning, and the unglamorous work of keeping all of it
-  fast and cheap under real traffic.
+  fast and affordable under real traffic.
 
-  Before this: fintech backend. Python, Java/Spring Boot, payment rails.
-  Both jobs are the same job — money and audio are both things that must
-  not be lost in transit.
+  Before this: fintech backend. Python, Java/Spring Boot, and payment rails.
+  Both jobs are the same job — money and audio are things that must not be
+  lost in transit.
+
+  I am currently pursuing an MSc in Artificial Intelligence, deepening my
+  knowledge of machine learning, intelligent systems, and agentic AI while
+  applying what I learn to real-world products.
 
 mac@reedapt:~$ cat now.txt
 
-  [~] cutting cold-start and idle GPU cost on ECS inference
+  [~] pursuing an MSc in Artificial Intelligence
+  [~] cutting cold-start and idle GPU costs on ECS inference
   [~] speaker diarization for low-resource languages
   [~] making a 2-hour video dub in less time than it takes to watch it
-  [~] On my Agentic Ai journey
+  [~] exploring and building with agentic AI
 ```
 
 ### stack
@@ -44,7 +50,8 @@ ops         github actions · gitlab ci · jenkins · sentry · nvidia
 
 ### stats
 
-![](https://streak-stats.demolab.com/?user=Macasore&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Macasore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Macasore\&theme=dark\&hide_border=false)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Macasore\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
 ### reach me
 
 [linkedin](https://linkedin.com/in/mac-asoredavid) · [x](https://x.com/macathefirst) · [mail](mailto:macasorekingdavid@gmail.com)
